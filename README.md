@@ -1,8 +1,7 @@
 
 
-<div align="center">
-  ## Hello there 👋
-</div>  
+## Hello there 👋
+ 
   
 
 ### <div align="center">I'm Pratham, I'm an 18-year-old freshman Computer Science Student from India.</div>  
