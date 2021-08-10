@@ -17,32 +17,20 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I’m a full-stack developer and a freshman Computer Science Student from beautiful India 
 
 I like to attend Hackathons, Community Events, Workshops, etc.  
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m interested in Open source, Web development, Communities, etc.  
-  
-
-- 🌱 I’m currently learning NodeJS and DSA  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
+- 🌱 I’m currently learning NodeJS and DSA   
+- ❓ Ask me about anything related to MERN stack and related technologies   
 - ⚡ Fun fact: I like to play football and badminton  
-
 
 </td><td valign="top" width="50%">
 
@@ -50,11 +38,9 @@ I like to attend Hackathons, Community Events, Workshops, etc.
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -80,7 +66,6 @@ I like to attend Hackathons, Community Events, Workshops, etc.
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -94,15 +79,11 @@ I like to attend Hackathons, Community Events, Workshops, etc.
 
 <br/>  
 
-  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=bhagatpratham&&style=flat-square)  
   
-
 <br/>  
-
 
 <br />
 
