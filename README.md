@@ -18,7 +18,7 @@
 </a>  
   
 ### Glad to see you here!  
-I’m a full-stack developer and a freshman Computer Science Student from beautiful India 
+I’m a front-end developer and a sophomore Computer Science Student from India 
 
 I like to attend Hackathons, Community Events, Workshops, etc.  
   
