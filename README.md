@@ -18,7 +18,7 @@
 </a>  
   
 ### Glad to see you here!  
-I’m a front-end developer and a sophomore Computer Science Student from India 
+I’m a front-end developer and a Computer Science Student from India 
 
 I like to attend Hackathons, Community Events, Workshops, etc.  
   
