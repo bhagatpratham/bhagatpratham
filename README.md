@@ -17,9 +17,6 @@
 <a href="https://linkedin.com/in/pratham-bhagat-54535b1aa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/pratham_codes" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
   
 ### Glad to see you here!  
 I’m a front-end developer and a Computer Science Student from India 
@@ -31,8 +28,8 @@ I like to attend Hackathons, Community Events, Workshops, etc.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m interested in Open source, Web development, Communities, etc.  
-- 🌱 I’m currently learning NodeJS and DSA   
+- 🔭 I’m interested in Web dev, Technical Writing, etc.  
+- 🌱 I’m currently learning React, NodeJs  
 - ❓ Ask me about anything related to MERN stack and related technologies   
 - ⚡ Fun fact: I like to play football and badminton  
 
