@@ -21,17 +21,10 @@
 ### Glad to see you here!  
 I’m a front-end developer and a Computer Science Student from India 
 
-I like to attend Hackathons, Community Events, Workshops, etc.  
+Writer. Developer. Dreamer. Believer. Achiever. My curiosity leads me to learn various technologies, and my love for writing helps me to impart my knowledge for the same. When I am not exploring technologies, you will mostly find me on a football field.
   
 <br/>  
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m interested in Web dev, Technical Writing, etc.  
-- 🌱 I’m currently learning React, NodeJs  
-- ❓ Ask me about anything related to MERN stack and related technologies   
-- ⚡ Fun fact: I like to play football and badminton  
 
 </td><td valign="top" width="50%">
 
