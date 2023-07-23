@@ -19,9 +19,6 @@
 </a>
   
 ### Glad to see you here!  
-I’m a front-end developer and a Computer Science Student from India 
-
-Writer. Developer. Dreamer. Believer. Achiever. My curiosity leads me to learn various technologies, and my love for writing helps me to impart my knowledge for the same. When I am not exploring technologies, you will mostly find me on a football field.
   
 <br/>  
 
