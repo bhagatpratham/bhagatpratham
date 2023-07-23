@@ -19,13 +19,8 @@
 </a>
   
 ### Glad to see you here!  
-  
-<br/>  
-
 
 </td><td valign="top" width="50%">
-
-
 </td></tr></table>  
 
 <br/>  
